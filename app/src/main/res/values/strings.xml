@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="start">Start</string>
+    <string name="click">Klik</string>
+    <string name="points">Punkty: </string>
+    <string name="multiplier">Mnożnik: +1</string>
+    <string name="multiplier_price">Cena:  </string>
+    <string name="buy">Kup</string>
+    <string name="win">Zwycięstwo!</string>
+
+</resources>
